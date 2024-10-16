@@ -1,2 +1,1 @@
-# shadcn_with_tailwind
-Shadcn with tailwind
+# React app with vite, tailwindcss and shadcn/ui
